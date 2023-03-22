@@ -1,0 +1,6 @@
+gato=peludo;
+perro=gordo;
+caballo=grande;
+conejo=pequeño;
+pájaro=rojo;
+pato=blanco;
