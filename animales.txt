@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 leon grande
 perro chico
+=======
+<<<<<<< HEAD
+Cocodrilo Grande
+=======
+leon grande
+>>>>>>> afd1e2b5cb1c35268fc28b8ecd331dd56f7ad266
+>>>>>>> 6f1e00cd07b326ca081312f601e854cf346afa2e
